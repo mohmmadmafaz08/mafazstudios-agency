@@ -113,6 +113,10 @@ function RootShell({ children }: { children: ReactNode }) {
   return (
     <html lang="en">
       <head>
+        <meta
+          name="asimply-site-verification"
+          content="asimply-verification-00c62acc813c1106c6ec206eddfd53039e8f691787f3956fac4da38b6678af46"
+        />
         <HeadContent />
       </head>
       <body>
